@@ -7,7 +7,7 @@ weight = 10
 # hidden = true
 
 # Hero image (optional). Enter filename of an image in the `static/` folder.
-hero_media = "/img/portrait.jpg"
+hero_media = "/img/milton-hero.jpg"
 
 # Buttons
 # Add as much button as you want
@@ -15,7 +15,7 @@ hero_media = "/img/portrait.jpg"
 	# The url of the button
   url = "/about"
 	# The text of the button
-  label = "Know more"
+  label = "Learn more"
 	# Primary color
 	primary = true
 
@@ -25,7 +25,7 @@ hero_media = "/img/portrait.jpg"
 
 +++
 
-# A theme to **express** your ideas.
+# Brian's site
 
-Pico is a minimalist, readable, responsive, light and beautiful Hugo theme.
+Technical writer dabbling in cooking, blogging, and personal finance. Also slightly cat obsessed.
 
