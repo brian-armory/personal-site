@@ -21,7 +21,7 @@ customJS = ["js/console.js"] # Path relative to assets folder
 # in the front matter
 description = "Personal website"
 email = "mail@example.com"
-favicon = '/favicon.png'
+favicon = '/icons/favicon.ico'
 
 # Social parameters for contact_icons widget
 #[[params.social]]
