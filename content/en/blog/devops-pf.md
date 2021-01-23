@@ -15,7 +15,7 @@ It's a new year. Many of us are setting personal resolutions and building out pl
 
 The best advice for both those things isn’t flashy or exciting. In fact, it's really boring.
 
-Get rich quick schemes or expensive consultants that promise to sweep in to revolutionize your software delivery lifecycle (SDLC) are a dime a dozen. But there is no secret sauce for personal finance. All the advice you'll ever need to be a personal finance savant fits on an index card (a concept made famous by financial journalist Helaine Olen and University of Chicago professor Harold Pollack). Software devlivery is the same.
+Get rich quick schemes or expensive consultants that promise to revolutionize your software delivery lifecycle (SDLC) are a dime a dozen. But there is no secret sauce for personal finance. All the advice you'll ever need to be a personal finance savant fits on an index card (a concept made famous by financial journalist Helaine Olen and University of Chicago professor Harold Pollack). Software devlivery is the same.
 
 When you look at personal finance, your money needs to make it from your paycheck (source) to your obligations (destination).
 
