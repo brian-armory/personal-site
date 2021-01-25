@@ -71,7 +71,7 @@ That is, _force = mass * acceleration_. If given the option, would you rather de
 
 _**Repeat the previous steps**_
 
-Engineers like automating things. Bill Gates famously wanted to hire lazy engineers cause they'll find the easiest way to do something. The easiest way to repeat the previous steps is to automate them by software or established processes.
+Engineers like automating things. Bill Gates famously wanted to hire lazy engineers 'cause they'll find the easiest way to do something. The easiest way to repeat the previous steps is to automate them by software or established processes.
 
 # Audit audit audit
 
