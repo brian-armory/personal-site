@@ -77,7 +77,7 @@ Engineers like automating things. Bill Gates famously wanted to hire lazy engine
 
 For personal finance, this means you need to budget and track your spending.
 
-For software delivery, this means tracking your sprint velocity to see if matches with your time allocation.
+For software delivery, this means tracking your sprint velocity to see if it matches with your time allocation.
 
 # People first. Tools second.
 
