@@ -21,7 +21,7 @@ When you look at personal finance, your money needs to make it from your paychec
 
 When you look at delivering software, your code needs to make it from commit (source) to your users (destination).
 
-What's important for both isn't taking that big swing for a home run where you run the risk of "hit big or miss big." The graphic at the start of the blog post shows the volatility you open yourself too when you take that big swing. Show it to an average person and see if they have an appetite for that kind of risk when their money is on the line or the features that they're responsible experience that kind of instability.
+What's important for both isn't taking that big swing for a home run where you run the risk of "hit big or miss big." The graphic at the start of the blog post shows the volatility you open yourself to when you take that big swing. Show it to an average person and see if they have an appetite for that kind of risk when their money is on the line or the features that they're responsible for experience that kind of instability.
 
 Instead, what is desirable but boring is this: take high percentage swings that almost guarantee you consistently good results. The incremental growth compounds on itself. We'll talk about ___the magic of compound growth___ soon, but first, the principles of personal finance and software delivery.
 
