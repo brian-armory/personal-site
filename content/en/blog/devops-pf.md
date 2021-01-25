@@ -19,7 +19,7 @@ Get rich quick schemes or expensive consultants that promise to revolutionize yo
 
 When you look at personal finance, your money needs to make it from your paycheck (source) to your obligations (destination).
 
-When you look at delivering software,your code needs to make it from commit (source) to your users (destination).
+When you look at delivering software, your code needs to make it from commit (source) to your users (destination).
 
 What's important for both isn't taking that big swing for a home run where you run the risk of "hit big or miss big." The graphic at the start of the blog post shows the volatility you open yourself too when you take that big swing. Show it to an average person and see if they have an appetite for that kind of risk when their money is on the line or the features that they're responsible experience that kind of instability.
 
