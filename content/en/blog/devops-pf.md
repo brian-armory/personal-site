@@ -33,7 +33,7 @@ Charles Dickens and many others have given this advice. Simply put, make $20 and
 
 **_Make discipline easy by automating it and removing a variable, you_** 
 
-We're all tempted by the shiny new object while running on a hedonic treadmill. Some of the most valuable companies in the world got that way because of how good they are at getting you to spend money. What's a person to do? The answer is to automate your savings. Contribute money to your 401k from each paycheck. Set up automated transfers to savings to work toward your goals. Do these things automatically. When temptation strikes, you'll be better equipped resist because there's no money to spend. The extra money has already been tucked away safely.
+We're all tempted _"buy"_ the shiny new object while running on a hedonic treadmill. Some of the most valuable companies in the world got that way because of how good they are at getting you to spend money. What's a person to do? The answer is to automate your savings. Contribute money to your 401k from each paycheck. Set up automated transfers to savings that work toward your goals. Do these things automatically. When temptation strikes, you'll be better equipped to resist because there's no money to spend. The extra money has already been tucked away safely.
 
 _**Breath. Progress is incremental.**_
 
