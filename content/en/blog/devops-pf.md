@@ -3,7 +3,7 @@ title = "What Personal Finance and Software Delivery Have in Common"
 # subtitle =
 tags = ['devops', 'finance']
 date = 2021-01-13
-description = "It might seem like an odd pairing, but software delivery and personal finance have a lot in common. Use personal finance principles to inform your software deliver."
+description = "It might seem like an odd pairing, but software delivery and personal finance have a lot in common. Use personal finance principles to inform your software delivery."
 banner = 'img/pf/gme-stock.jpg'
 +++
 
