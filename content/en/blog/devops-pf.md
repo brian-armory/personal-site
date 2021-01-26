@@ -41,7 +41,10 @@ _**Breath. Progress is incremental.**_
 > 
 > _Based on the rate of return, the rule of 72 estimates how long it takes to double a given amount of money._
 
-Remember when I mentioned the magic of compound returns? If you take small swings in your 401k by investing in broad index funds, like SPY which tracks the S&P500. The S&P500 has averaged 10% returns (before inflation) over the course of its existence. Using the rule of 72, you can expect to double your money ever 7.2 years. Double your money with 0 effort on your part. It is that easy. It just takes time and patience.
+Remember when I mentioned the magic of compound returns? If you take small swings in your 401k by investing in broad index funds, like SPY which tracks the S&P500, you can reasonably, safely, and sustainably grow your investments and wealth.
+
+
+The S&P500 has averaged 10% returns (before inflation) over the course of its existence. Using the rule of 72, you can expect to double your money ever 7.2 years. Double your money with 0 effort on your part. It is that easy. It just takes time and patience.
 
 *__Repeat the previous steps__* 
 
@@ -83,7 +86,7 @@ For software delivery, this means tracking your sprint velocity to see if it mat
 
 It's hard doing the boring thing you know and being consistent about it. It's doubly hard when social media is talking about rockets, moons, and Wall Street Bets. On the software front, this is all the hyped up tech that FAANG companies (Facebook, Apple, Amazon, Netflix, and Google) love to talk about: cloud native, containers, Docker, Kubernetes, service meshes, etc.
 
-Budgeting tools and tech stacks don't really mean much if the people who use them don't follow the behavioral practices and processes required. You're just adding overhead and operational complexity in those cases.
+Budgeting tools and tech stacks don't really mean much if the people who use them don't believe in and follow the behavioral practices and processes required. You're just adding overhead and operational complexity in those cases.
 
 # Myths and gotchas
 
@@ -99,7 +102,15 @@ Which option do you choose? :shrug:
 
 # Dive deeper
 
-This blog post is a 10,000 foot view of how personal finance and software delivery overlap. We'll explore these more deeply in subsequent blogs. In the meantime, here are book recommendations if you want to go deeper:
+This blog post is a 10,000 foot view of how personal finance and software delivery overlap. We'll explore these more deeply in subsequent blogs. 
+
+Have ideas about how other personal finance concepts apply to software delivery? Tweet @ [_brile](https://twitter.com/_brile) or file a [GitHub issue](https://github.com/brian-armory/personal-site/issues). Here's one topic already on my radar:
+
+* Dollar cost averaging, lump sum investing & your DevOps
+
+In the meantime, here are book recommendations if you want to go deeper into either the Personal Finance stuff or the DevOps stuff:
 
 * _The Index Card: Why Personal Finance Doesn't Have to Be Complicated_ by Helaine Olen and Harold Pollack. It's a whole book! Or just search the internet for the actual index card.
 * _Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations_ by Nicole Forsgren, Jez Humble, and Gene Kim
+
+I have one really strong warning about either book though. When reading them, remember the section "People first. Tools second." Or really just that line.
