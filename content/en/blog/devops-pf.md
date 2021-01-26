@@ -15,7 +15,7 @@ It's a new year. Many of us are setting personal resolutions and building out pl
 
 The best advice for both those things isn’t flashy or exciting. In fact, it's really boring.
 
-Get rich quick schemes or expensive consultants that promise to revolutionize your software delivery lifecycle (SDLC) are a dime a dozen. But there is no secret sauce for personal finance. All the advice you'll ever need to be a personal finance savant fits on an index card (a concept made famous by financial journalist Helaine Olen and University of Chicago professor Harold Pollack). Software devlivery is the same.
+Get rich quick schemes or expensive consultants that promise to revolutionize your software delivery lifecycle (SDLC) are a dime a dozen. But there is no secret sauce for personal finance. All the advice you'll ever need to be a personal finance savant fits on an index card (a concept made famous by financial journalist Helaine Olen and University of Chicago professor Harold Pollack). Software delivery is the same.
 
 When you look at personal finance, your money needs to make it from your paycheck (source) to your obligations (destination).
 
@@ -111,6 +111,7 @@ Have ideas about how other personal finance concepts apply to software delivery?
 In the meantime, here are book recommendations if you want to go deeper into either the Personal Finance stuff or the DevOps stuff:
 
 * _The Index Card: Why Personal Finance Doesn't Have to Be Complicated_ by Helaine Olen and Harold Pollack. It's a whole book! Or just search the internet for the actual index card.
+* _I Will Teach You To Be Rich_ by Ramit Sethi. He's a cool guy with lots of great advice. The click bait title is a fake out. 
 * _Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations_ by Nicole Forsgren, Jez Humble, and Gene Kim
 
-I have one really strong warning about either book though. When reading them, remember the section "People first. Tools second." Or really just that line.
+I have one really strong warning about these books though. When reading them, remember the section "People first. Tools second." Or really just that line.
