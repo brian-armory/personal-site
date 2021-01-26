@@ -35,7 +35,7 @@ Charles Dickens and many others have given this advice. Simply put, make $20 and
 
 We're all tempted _"buy"_ the shiny new object while running on a hedonic treadmill. Some of the most valuable companies in the world got that way because of how good they are at getting you to spend money. What's a person to do? The answer is to automate your savings. Contribute money to your 401k from each paycheck. Set up automated transfers to savings that work toward your goals. Do these things automatically. When temptation strikes, you'll be better equipped to resist because there's no money to spend. The extra money has already been tucked away safely.
 
-_**Breath. Progress is incremental.**_
+_**Breathe. Progress is incremental.**_
 
 > _[Rule of 72](https://www.investor.gov/additional-resources/information/youth/teachers-classroom-resources/what-compound-interest)_
 > 
