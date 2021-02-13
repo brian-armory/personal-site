@@ -4,34 +4,42 @@ title = "Learning to automate my investing with the Alpaca API. Part 1."
 tags = ['learning', 'finance']
 date = 2021-01-13
 description = "Learning how to use an API using examples from the Alpaca paper trading API. This blog series starts from step 0, authenticating yourself to the API server."
-banner = 'img/pf/gme-stock.jpg'
+# banner = 'img/pf/gme-stock.jpg'
 +++
-
-# What is Alpaca?
-
-Alpaca is a new commission free trading platform like Robinhood. Unlike Robinhood, it's less focused on making investing a game 
 
 # Who this is for
 
-You want to learn about using an API with a topic that is something other than the weather. If you already know how to use APIs. This is definitely not meant for you.
+You want to learn about using an Application Program Interface (API) with a topic that is something other than the weather. If you already know how to use APIs. This is definitely not meant for you.
+
+# What's an API?
+
+An API is 
+
+We're going to focus on **RE**presentational **S**tate **T**ransfer **R**EST (REST) APIs. Want to dive deeper into the actual tech behind REST? Read more [here](https://blog.postman.com/rest-api-definition/).
+
+# What's Alpaca?
+
+Alpaca is a  commission free trading platform like Robinhood. Unlike Robinhood, it's less focused on making investing a game. Instead, it's major selling point is being able to automate your investing using their Application Program Interface (API). 
+
+An API is the definition that programs use to communicate (interface) with each other and request/perform actions. This is why you may also hear about things like API contracts, which explicitly lay out how an API behaves.
 
 # Requirements
 
-Some basic familiarity with the MacOS or Linux command line is really going to help here. When I say basic, I mean really basic like how to open a hidden file and copy/paste commands. This guide is written with MacOS and the bash shell in mind.
+This guide is written with MacOS and the bash shell in mind, so some basic familiarity with the MacOS command line (Terminal) is really going to help here. When I say basic, I really do mean basic like how to open a hidden file and running commands. My aim is to explain anything more than that sufficiently so that you always know what's going on.
 
-An Alpaca account, specifically the "paper" money account.
+You'll also need an [Alpaca account](https://app.alpaca.markets/brokerage/new-account), specifically the "paper" money account. We are definitely not playing with real money here.
 
 # Gathering information
 
-To use the Alpaca API, you need to be able to verify who you are so that Alpaca knows and can verify which account to associate your actions with. 
+To use the Alpaca API, you need to be able to verify who you are so that Alpaca knows you're allowed to do what you want to do. When you log in to a website, you use a username and password. APIs often use an API Key ID and Secret Key.
 
-The recommended way of doing this is to start with configuring environment variables for your machine. Creating environment variables help you provide the same input consistently and lets you .
+The recommended way of doing this is to start with configuring environment variables for your machine. Creating environment variables help you provide the same input consistently. 
 
 > What's an environment variable?
 >
-> An environment variable is a variable that exists for your environment, independent of any program. You can refer to them by name in scripts or command-line programs.
+> An environment variable is a variable that exists for your environment, independent of any program. You can refer to them by name in scripts or command-line programs. This way, you're not storing things like passwords where everyone can see, such as in a source control system like GitHub.
 
-These are the environment variables that you need to configure:
+These are the environment variables that you are going to need to configure:
 
 - **`APCA_API_BASE_URL`**
 
@@ -59,7 +67,9 @@ export APCA_API_KEY_ID=<Random string of characters unique to you>
 export APCA_API_SECRET_KEY=<Random string of characters you need to keep secret>
 ```
 
-By putting it into your bash profile, these environment variables are available every time you open Terminal. 
+Replace `<Random string of characters unique to you>` and `<Random string of characters you need to keep secret>`
+
+By putting it into your bash profile, these environment variables are available every time you open a Terminal window. 
 
 Since you modified your bash profile, you have to load it again for the variables to be available. Do one of the following:
 
@@ -104,4 +114,10 @@ Let's break this command down one piece at a time:
 
    What action you want to take. `GET` means we are getting information from Alpaca.
 
+   > Here are all the actions you can take with REST APIs: GET, POST, PUT, and DELETE.
+
 * **`"$APCA_API_BASE_URL/v2/account"`**
+
+## Dive deeper
+
+Learning
